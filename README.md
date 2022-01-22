@@ -9,4 +9,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arenasjuanf&show_icons=true&locale=en" alt="arenasjuanf" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arenasjuanf&" alt="arenasjuanf" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arenasjuanf&" alt="arenasjuanf" /></p> -->
