@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Felipe Arenas</h1>
-<h3 align="center">A passionate about technology and web development</h3>
+<h3 align="center">Someone passionate about technology and web development</h3>
 
 
 <h3 align="center">Languages and Tools:</h3>
