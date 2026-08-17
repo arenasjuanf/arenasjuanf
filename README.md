@@ -39,10 +39,10 @@
 
 ### 📊 Mis Estadísticas en GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arenasjuanf&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Juan Felipe" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arenasjuanf&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arenasjuanf&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Juan Felipe" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arenasjuanf&layout=compact&theme=tokyonight&hide_progress=false" alt="Lenguajes más usados" height="170" />
+</div>
 
 ---
 
