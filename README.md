@@ -63,10 +63,6 @@ Soy un desarrollador apasionado por la tecnología, el desarrollo web y la creac
 
 </div>
 
----
-
-## 📈 Métricas de GitHub
-
 <div align="center">
 
   <img src="./github-metrics.svg" alt="Métricas detalladas de mi perfil de GitHub" width="100%" />
