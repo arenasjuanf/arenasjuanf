@@ -57,11 +57,7 @@ Soy un desarrollador apasionado por la tecnología, el desarrollo web y la creac
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arenasjuanf&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estadísticas de GitHub" />
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arenasjuanf&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más utilizados" />
-
-  <br/><br/>
 
   <img width="70%" src="https://streak-stats.demolab.com?user=arenasjuanf&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
 
