@@ -37,13 +37,9 @@
 
 ---
 
-### 📊 Mis Estadísticas en GitHub
+### 📊 Estadísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arenasjuanf&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Juan Felipe" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arenasjuanf&layout=compact&theme=tokyonight&hide_progress=false" alt="Lenguajes más usados" height="170" />
-</div>
-
+![Metrics](/github-metrics.svg)
 ---
 
 ### 📬 Conéctate conmigo
